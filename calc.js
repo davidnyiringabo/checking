@@ -38,6 +38,7 @@ function additionCalc(numberarray) {
 
 }
 
+// $ git remote add origin < REMOTE_URL >
 // b) only to multiply
 
 function multiplication(numberarray) {
